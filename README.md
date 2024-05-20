@@ -1,4 +1,7 @@
-### Hi there 👋
+# Intereses
+Me interesa aprender todo lo relacionado con el front-end y el back-end. Actualmente me encuentro estudiando en la ESPOL la carrera de computación.
+
+Mi pasatiempo favorito es el futoblo y la cocina, me interesa también ser un chef profesional.
 
 <!--
 **Ariel-Vargas/Ariel-Vargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
