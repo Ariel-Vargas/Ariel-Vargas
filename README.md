@@ -4,9 +4,9 @@ Me interesa aprender todo lo relacionado con el front-end y el back-end. Actualm
 Mi pasatiempo favorito es el futbol y la cocina, me interesa también ser un chef profesional.
 
 ## Contenido
-[Información personal](#información-personal)
-[Proyectos](#proyectos)
-[Intereses](#intereses)
+* [Información personal](#información-personal)
+* [Proyectos](#proyectos)
+* [Intereses](#intereses)
 
 
 ## Información personal
