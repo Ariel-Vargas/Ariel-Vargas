@@ -15,9 +15,11 @@ Mi pasatiempo favorito es el futbol y la cocina, me interesa también ser un che
 * Lugar de residencia: Ecuador - Guayaquil
 
 ## Proyectos
-* TicTacToe
-* tcpSimulator
-* ModernContacts
+* [TicTacToe](https://github.com/DataStructuresEspol/TicTacToe)
+* [tcpSimulator](https://github.com/EspolNetworks/tcpsimulator)
+* [ModernContacts](https://github.com/DataStructuresEspol/ModernContactsV2)
+* [Curriculum](https://github.com/Ariel-Vargas/Curriculum)
+* [Landing Page](https://github.com/Ariel-Vargas/landingpage)
 
 ## Intereses
 * Gastronomía
