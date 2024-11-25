@@ -14,6 +14,9 @@ Mi pasatiempo favorito es el futbol y la cocina, me interesa también ser un che
 * Ocupación: Estudiante
 * Lugar de residencia: Ecuador - Guayaquil
 
+## Habilidades
+![Static Badge](https://img.shields.io/badge/Java-red)
+
 ## Proyectos
 * [TicTacToe](https://github.com/DataStructuresEspol/TicTacToe)
 * [tcpSimulator](https://github.com/EspolNetworks/tcpsimulator)
