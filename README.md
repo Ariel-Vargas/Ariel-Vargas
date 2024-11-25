@@ -15,7 +15,16 @@ Mi pasatiempo favorito es el futbol y la cocina, me interesa también ser un che
 * Lugar de residencia: Ecuador - Guayaquil
 
 ## Habilidades
+![Static Badge](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-red)
+![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+
+
 
 ## Proyectos
 * [TicTacToe](https://github.com/DataStructuresEspol/TicTacToe)
