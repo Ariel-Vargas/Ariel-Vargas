@@ -27,6 +27,24 @@ Mi pasatiempo favorito es el futbol y la cocina, me interesa también ser un che
 
 
 ## Proyectos
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/260be4d1-8dba-43c8-aa47-3c378be676ed" alt="tic-tac-toe" width="200"/></td>
+    <td><a href="https://github.com/DataStructuresEspol/TicTacToe">TicTacToe</a> es un juego que simula un juego tres en raya escrito en java. Puedes jugarlo entre dos personas o máquina y persona.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/21c2e757-98ed-4a99-b240-8885a1fd5ca4" alt="tcp simulator" width="200"/></td>
+    <td><a href="https://github.com/EspolNetworks/tcpsimulator">tcpSimulator</a> es una simulación de cómo debería enviar paquetes tcp/ip en una misma máquina cliente-servidor escrito en javascript.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/628356ec-06c3-4ffd-a14c-538244c2581a" alt="curriculum" width="200"/></td>
+    <td><a href="https://github.com/Ariel-Vargas/Curriculum">Curriculum</a> es un proyecto de DAWM escrito en html y css para la creación de mi propia hoja de vida.</td>
+  </tr>
+</table>
+
+
+
 * [TicTacToe](https://github.com/DataStructuresEspol/TicTacToe)
 * [tcpSimulator](https://github.com/EspolNetworks/tcpsimulator)
 * [ModernContacts](https://github.com/DataStructuresEspol/ModernContactsV2)
