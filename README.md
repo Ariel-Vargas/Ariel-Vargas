@@ -5,6 +5,7 @@ Mi pasatiempo favorito es el futbol y la cocina, me interesa también ser un che
 
 ## Contenido
 * [Información personal](#información-personal)
+* [Habilidades](#habilidades)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 
@@ -41,15 +42,11 @@ Mi pasatiempo favorito es el futbol y la cocina, me interesa también ser un che
     <td><img src="https://github.com/user-attachments/assets/628356ec-06c3-4ffd-a14c-538244c2581a" alt="curriculum" width="200"/></td>
     <td><a href="https://github.com/Ariel-Vargas/Curriculum">Curriculum</a> es un proyecto de DAWM escrito en html y css para la creación de mi propia hoja de vida.</td>
   </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/51056811-fa80-4052-ba80-807136936333" alt="landing page" width="200"/></td>
+    <td><a href="https://github.com/Ariel-Vargas/landingpage">Landing Page</a> es un proyecto de DAWM escrito en bootstrap y javascript para la creación de mi fan page sobre scooby doo.</td>
+  </tr>
 </table>
-
-
-
-* [TicTacToe](https://github.com/DataStructuresEspol/TicTacToe)
-* [tcpSimulator](https://github.com/EspolNetworks/tcpsimulator)
-* [ModernContacts](https://github.com/DataStructuresEspol/ModernContactsV2)
-* [Curriculum](https://github.com/Ariel-Vargas/Curriculum)
-* [Landing Page](https://github.com/Ariel-Vargas/landingpage)
 
 ## Intereses
 * Gastronomía
